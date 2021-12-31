@@ -1,3 +1,11 @@
 This nodeJS code was created when following JavaBrains tutorials on NodeJS.
+https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q
 
-This is a simple NodeJS code to read two inputs from the user using "require" in NodeJS with the help of the existing "readline" API.
+writefile.js:
+This NodeJS code uses write API "fs" and read API "readline" to create and write into a file with user input
+
+Read_favcolor_name.js:
+This is a simple NodeJS code to read two inputs from the user using "require" in NodeJS with the help of NodeJS "readline" API.
+
+index.js:
+NodeJS utility to change timezone with user input, using momentJS library

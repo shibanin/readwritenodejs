@@ -1,0 +1,17 @@
+{
+  "name": "timezone",
+  "version": "1.0.0",
+  "description": "Utility to convert timezones ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "myscript": "ls"
+  },
+  "author": "shibanin",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
