@@ -1,4 +1,4 @@
-//NodeJS timezone utility using third-party module "moment-timezone" 
+//NodeJS timezone utility using third-party library "momentJS" 
 const moment = require('moment-timezone');
 
 let date = new moment();
