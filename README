@@ -1,1 +1,3 @@
+This nodeJS code was created when following JavaBrains tutorials on NodeJS.
+
 This is a simple NodeJS code to read two inputs from the user using "require" in NodeJS with the help of the existing "readline" API.
